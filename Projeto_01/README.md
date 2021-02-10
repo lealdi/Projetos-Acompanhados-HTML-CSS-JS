@@ -1,3 +1,3 @@
-# Projetos de uma Landing Page
+# Projeto de uma Landing Page
 
  Aprendendo a criar uma Landing Page.
